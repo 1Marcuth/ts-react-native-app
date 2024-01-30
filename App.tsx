@@ -1,6 +1,7 @@
 import { NativeModules, Platform, StyleSheet, Text, View } from "react-native"
 import { FC, useEffect, useState } from "react"
 import { StatusBar } from "expo-status-bar"
+
 import Header from "./components/header"
 
 const { StatusBarManager } = NativeModules
