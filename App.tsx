@@ -16,7 +16,7 @@ const App: FC = () => {
     return (
         <View style={styles.container}>
             <Header statusBarHeight={statusBarHeight}/>
-            <Text>Aplicativo Template Feito por Marcuth (@1marcuth)!</Text>
+            <Text>Aplicativo Template Feito por Marcuth (@1Marcuth)!</Text>
             <StatusBar style="auto"/>
         </View>
     )
