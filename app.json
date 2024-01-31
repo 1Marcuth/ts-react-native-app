@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ts-react-native-app",
-    "slug": "ts-react-native-app",
+    "name": "App Template By Marcuth",
+    "slug": "App-Template-By-Marcuth",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,10 +27,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "2cc3e9c2-7969-4f25-9984-dbe6bdb903ba"
-      }
-    }
+    "extra": {}
   }
 }

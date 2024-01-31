@@ -10,13 +10,17 @@
       "preview": {
           "distribution": "internal",
           "android": {
-            "buildType": "apk"
+                "buildType": "apk"
           }
       },
-      "production": {},
+      "production": {
+          "android": {
+              "buildType": "apk"
+          }
+      },
       "release": {
           "android": {
-            "workflow": "generic"
+              "workflow": "generic"
           }
         }
     },
